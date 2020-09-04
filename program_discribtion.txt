@@ -1,0 +1,13 @@
+This is an Instagram bot for automatically winding up followers.
+To work with a bot you need:
+1.install the Selenium package to work with the browser
+2.download chromedriver.exe corresponding to your browser version (the driver must match your browser)
+3. launch the bot:
+3.1 file instagram bot.py - fill in the fields: login, password, group where the bot will look for subscribers
+run the program
+3.2 file filter.py - fill in the criteria for filtering accounts
+run the program
+3.3 file liker.py - fill in username, password, number of likes and subscriptions
+run the program
+3.4 file unsubscribe.py - runs after a while (a couple of months) to unsubscribe from accounts
+! search the Internet for the current limits on subscriptions, likes, the number of Instagram comments
